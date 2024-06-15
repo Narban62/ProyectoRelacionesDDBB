@@ -7,6 +7,13 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.CommandLineRunner;
 
+/**
+ * @author Luis Esteban Perenguez Bastidas
+ * @version 1.0
+ * @since 2024
+ * @description: Proyecto de relaciones de base de datos
+ */
+
 @SpringBootApplication
 public class ProyectoRelacionesDdbbApplication implements CommandLineRunner {
 
